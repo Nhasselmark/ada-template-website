@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
+title: Understanding what makes a Wikipedia article popular
 description: A template website for ADA
 show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Understanding what makes a Wikipedia article popular
-    url: This project is part of the ADA course.
+  - title: This page !!
+    url: example
