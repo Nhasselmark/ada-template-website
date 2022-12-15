@@ -4,4 +4,4 @@ description: A template website for ADA
 show_downloads: True
 navigation:
   - title: Home
-    url: example
+    url: article
