@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## The ABCs of Link Positioning: A Guide to Optimizing Navigation on Your Webpage
 
 Navigating a webpage can be a frustrating experience for users, especially if they cannot easily find the information or resources they are looking for. As a web designer, it is important to carefully consider the layout and organization of your webpage, including the positioning of links, to ensure that users can easily find what they are looking for and engage with your content.
