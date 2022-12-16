@@ -4,6 +4,6 @@ description: ADA And The Lovelace
 show_downloads: True
 navigation:
   - title: Home
-    url: /
+    url: README
   - title: Example
     url: example
