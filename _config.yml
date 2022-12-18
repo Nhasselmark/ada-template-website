@@ -1,6 +1,4 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme 
+theme: jekyll-theme-minimal
 title: Understanding what makes a Wikipedia article popular
 description: ADA And The Lovelace
 show_downloads: True
